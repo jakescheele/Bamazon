@@ -12,4 +12,4 @@ From the shopping cart you can edit items, keep shopping, or check out. You can 
 
 See a short demo below: 
 
-![]('demo.gif')
+![]('./demo.gif')
